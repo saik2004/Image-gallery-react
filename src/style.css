@@ -1,0 +1,26 @@
+
+.container{
+    background-color:gainsboro;
+    padding: 20px;
+    width: 400px;
+}
+
+.input_container{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+    border-radius: 4px;
+}
+
+.input{
+    height: 20px;
+    width: 500px;
+    border: none;
+    font-size: 18px;
+}
+
+.input:focus{
+    outline: none;
+}
