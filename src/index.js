@@ -79,16 +79,16 @@ const chatDetails = [
     image: woman1
   },
   {
-    name:"Navitha",
+    name:"Akash",
     text:"Can You Join My Party?",
     time:"8:30",
-    image: woman2
+    image: man1
   },
    {
-    name:"Ashwini",
+    name:"Vasanth",
     text:"When You Comming For Dinner",
     time:"8:30",
-    image: woman3
+    image: man2
   }
 ]
 
