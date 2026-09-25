@@ -4,8 +4,7 @@ import man1 from "./assests/man 1.jpg"
 import man2 from "./assests/man 2.jpg"
 import man3 from "./assests/man 3.jpg"
 import woman1 from "./assests/woman 1.jpg"
-import woman2 from "./assests/woman 2.jpg"
-import woman3 from "./assests/woman 3.jpg"
+
 
 const root = ReactDom.createRoot(document.getElementById("root"))
 
